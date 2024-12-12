@@ -61,7 +61,9 @@
             Controls.Add(toolStrip1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "TelaPrincipal";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "TaskList";
+            WindowState = FormWindowState.Maximized;
             toolStrip1.ResumeLayout(false);
             toolStrip1.PerformLayout();
             ResumeLayout(false);

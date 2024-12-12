@@ -6,13 +6,18 @@ namespace TaskList
         {
             InitializeComponent();
         }
-
-
+        private void app()
+        {
+            Application.Run(new TelaPrincipal());
+        }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            TelaPrincipal telaPrincipal = new TelaPrincipal();
-            telaPrincipal.Show();
+            this.Close();
+            Thread thread;
+            thread = new Thread(app);
+            thread.SetApartmentState(ApartmentState.STA);
+            thread.Start();
         }
 
         private void lblCadastrar_Click_1(object sender, EventArgs e)

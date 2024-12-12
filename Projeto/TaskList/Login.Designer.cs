@@ -161,6 +161,8 @@
             Controls.Add(lblLogin);
             Controls.Add(btnLogin);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "JanelaLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "TaskList - Login";

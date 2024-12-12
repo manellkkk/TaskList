@@ -146,6 +146,8 @@
             Controls.Add(lblSubT);
             Controls.Add(lblLogin);
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Cadastro";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "TaskList - Cadastro";
