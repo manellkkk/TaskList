@@ -22,7 +22,7 @@ namespace TaskList
 
         private void lblCadastrar_Click_1(object sender, EventArgs e)
         {
-            Cadastro jan = new Cadastro();
+            CadastroUsuario jan = new CadastroUsuario();
             jan.Show();
         }
 

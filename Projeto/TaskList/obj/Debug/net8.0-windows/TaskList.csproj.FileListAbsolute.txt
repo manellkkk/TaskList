@@ -28,7 +28,6 @@ E:\Documentos\Projetos\TaskList\Projeto\TaskList\bin\Debug\net8.0-windows\TaskLi
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\bin\Debug\net8.0-windows\TaskList.pdb
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\bin\Debug\net8.0-windows\MaterialSkin.dll
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.csproj.AssemblyReference.cache
-E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.Cadastro.resources
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.JanelaLogin.resources
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.Properties.Resources.resources
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.TelaPrincipal.resources
@@ -44,3 +43,10 @@ E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\refint
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.pdb
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.genruntimeconfig.cache
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\ref\TaskList.dll
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Grupos.Grupo.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.CadastroUsuario.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Tarefas.Tarefas.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Grupos.AdicionarGrupo.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Grupos.EditarGrupo.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Tarefas.AdicionarTarefa.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Tarefas.EditarTarefa.resources

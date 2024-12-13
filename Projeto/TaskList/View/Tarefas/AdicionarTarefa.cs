@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TaskList
+namespace TaskList.View.Tarefas
 {
-    public partial class Cadastro : Form
+    public partial class AdicionarTarefa : Form
     {
-        public Cadastro()
+        public AdicionarTarefa()
         {
             InitializeComponent();
         }

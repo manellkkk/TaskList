@@ -1,6 +1,6 @@
 ﻿namespace TaskList
 {
-    partial class Cadastro
+    partial class CadastroUsuario
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cadastro));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CadastroUsuario));
             lblLogin = new Label();
             lblSubT = new Label();
             label2 = new Label();
