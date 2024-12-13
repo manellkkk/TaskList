@@ -22,6 +22,12 @@
     <Compile Update="View\Usuário\CadastroUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="View\Usuário\EditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Usuário\GerenciarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="View\Usuário\Login.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -28,9 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TelaPrincipal));
+            DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             plNav = new Panel();
+            btnUsuario = new Button();
+            btnSair = new Button();
             btnTarefas = new Button();
             btnGrupos = new Button();
             btnAdicionar = new Button();
@@ -49,7 +51,6 @@
             materialProgressBar1 = new MaterialSkin.Controls.MaterialProgressBar();
             label5 = new Label();
             lblTarefasDia = new Label();
-            btnSair = new Button();
             plNav.SuspendLayout();
             tableLayoutPanel3.SuspendLayout();
             tableLayoutPanel1.SuspendLayout();
@@ -60,6 +61,7 @@
             // plNav
             // 
             plNav.BackColor = Color.SteelBlue;
+            plNav.Controls.Add(btnUsuario);
             plNav.Controls.Add(btnSair);
             plNav.Controls.Add(btnTarefas);
             plNav.Controls.Add(btnGrupos);
@@ -70,6 +72,56 @@
             plNav.Padding = new Padding(15);
             plNav.Size = new Size(194, 681);
             plNav.TabIndex = 0;
+            // 
+            // btnUsuario
+            // 
+            btnUsuario.Anchor = AnchorStyles.Top;
+            btnUsuario.AutoSize = true;
+            btnUsuario.BackColor = Color.Transparent;
+            btnUsuario.BackgroundImageLayout = ImageLayout.None;
+            btnUsuario.Cursor = Cursors.Hand;
+            btnUsuario.FlatAppearance.BorderSize = 0;
+            btnUsuario.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            btnUsuario.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            btnUsuario.FlatStyle = FlatStyle.Flat;
+            btnUsuario.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnUsuario.ForeColor = Color.WhiteSmoke;
+            btnUsuario.Image = (Image)resources.GetObject("btnUsuario.Image");
+            btnUsuario.ImageAlign = ContentAlignment.MiddleLeft;
+            btnUsuario.Location = new Point(6, 284);
+            btnUsuario.Margin = new Padding(10);
+            btnUsuario.Name = "btnUsuario";
+            btnUsuario.Size = new Size(178, 80);
+            btnUsuario.TabIndex = 4;
+            btnUsuario.TextAlign = ContentAlignment.MiddleRight;
+            btnUsuario.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnUsuario.UseVisualStyleBackColor = false;
+            btnUsuario.Click += btnUsuario_Click;
+            // 
+            // btnSair
+            // 
+            btnSair.AutoSize = true;
+            btnSair.BackColor = Color.Transparent;
+            btnSair.BackgroundImageLayout = ImageLayout.None;
+            btnSair.Cursor = Cursors.Hand;
+            btnSair.Dock = DockStyle.Bottom;
+            btnSair.FlatAppearance.BorderSize = 0;
+            btnSair.FlatAppearance.MouseDownBackColor = Color.Transparent;
+            btnSair.FlatAppearance.MouseOverBackColor = Color.Transparent;
+            btnSair.FlatStyle = FlatStyle.Flat;
+            btnSair.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnSair.ForeColor = Color.WhiteSmoke;
+            btnSair.Image = (Image)resources.GetObject("btnSair.Image");
+            btnSair.ImageAlign = ContentAlignment.MiddleLeft;
+            btnSair.Location = new Point(15, 586);
+            btnSair.Margin = new Padding(10);
+            btnSair.Name = "btnSair";
+            btnSair.Size = new Size(164, 80);
+            btnSair.TabIndex = 3;
+            btnSair.TextAlign = ContentAlignment.MiddleRight;
+            btnSair.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnSair.UseVisualStyleBackColor = false;
+            btnSair.Click += btnSair_Click;
             // 
             // btnTarefas
             // 
@@ -339,31 +391,6 @@
             lblTarefasDia.TabIndex = 0;
             lblTarefasDia.Text = "Hoje";
             // 
-            // btnSair
-            // 
-            btnSair.AutoSize = true;
-            btnSair.BackColor = Color.Transparent;
-            btnSair.BackgroundImageLayout = ImageLayout.None;
-            btnSair.Cursor = Cursors.Hand;
-            btnSair.Dock = DockStyle.Bottom;
-            btnSair.FlatAppearance.BorderSize = 0;
-            btnSair.FlatAppearance.MouseDownBackColor = Color.Transparent;
-            btnSair.FlatAppearance.MouseOverBackColor = Color.Transparent;
-            btnSair.FlatStyle = FlatStyle.Flat;
-            btnSair.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnSair.ForeColor = Color.WhiteSmoke;
-            btnSair.Image = (Image)resources.GetObject("btnSair.Image");
-            btnSair.ImageAlign = ContentAlignment.MiddleLeft;
-            btnSair.Location = new Point(15, 586);
-            btnSair.Margin = new Padding(10);
-            btnSair.Name = "btnSair";
-            btnSair.Size = new Size(164, 80);
-            btnSair.TabIndex = 3;
-            btnSair.TextAlign = ContentAlignment.MiddleRight;
-            btnSair.TextImageRelation = TextImageRelation.ImageBeforeText;
-            btnSair.UseVisualStyleBackColor = false;
-            btnSair.Click += btnSair_Click;
-            // 
             // TelaPrincipal
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -412,5 +439,6 @@
         private Label label5;
         private Label label6;
         private Button btnSair;
+        private Button btnUsuario;
     }
 }

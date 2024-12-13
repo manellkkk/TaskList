@@ -50,3 +50,5 @@ E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskLi
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Grupos.EditarGrupo.resources
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Tarefas.AdicionarTarefa.resources
 E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Tarefas.EditarTarefa.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Usuário.EditarUsuario.resources
+E:\Documentos\Projetos\TaskList\Projeto\TaskList\obj\Debug\net8.0-windows\TaskList.View.Usuário.GerenciarUsuario.resources

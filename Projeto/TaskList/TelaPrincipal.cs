@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using TaskList.View.Grupos;
 using TaskList.View.Tarefas;
+using TaskList.View.Usuário;
 
 namespace TaskList
 {
@@ -44,6 +45,12 @@ namespace TaskList
             {
                 Application.Exit();
             }
+        }
+
+        private void btnUsuario_Click(object sender, EventArgs e)
+        {
+            GerenciarUsuario gerenciarUsuario = new GerenciarUsuario();
+            gerenciarUsuario.Show();
         }
     }
 }
