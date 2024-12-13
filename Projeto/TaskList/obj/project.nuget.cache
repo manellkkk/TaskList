@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1o+r6zpxLN4=",
+  "dgSpecHash": "+yiBXjj1Ek0=",
   "success": true,
-  "projectFilePath": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TaskList.csproj",
+  "projectFilePath": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\TaskList.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\narci\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
-    "C:\\Users\\narci\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+    "C:\\Users\\Carlos\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
   ],
   "logs": [
     {

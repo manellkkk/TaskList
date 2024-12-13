@@ -51,6 +51,8 @@
             materialProgressBar1 = new MaterialSkin.Controls.MaterialProgressBar();
             label5 = new Label();
             lblTarefasDia = new Label();
+            label7 = new Label();
+            label8 = new Label();
             plNav.SuspendLayout();
             tableLayoutPanel3.SuspendLayout();
             tableLayoutPanel1.SuspendLayout();
@@ -233,6 +235,8 @@
             tableLayoutPanel1.Controls.Add(label1, 1, 0);
             tableLayoutPanel1.Controls.Add(tableLayoutPanel2, 1, 1);
             tableLayoutPanel1.Controls.Add(lblTarefasDia, 0, 0);
+            tableLayoutPanel1.Controls.Add(label7, 0, 2);
+            tableLayoutPanel1.Controls.Add(label8, 1, 2);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(3, 88);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -241,8 +245,10 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 6.78466F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 56.5454559F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 36.727272F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel1.Size = new Size(1038, 590);
             tableLayoutPanel1.TabIndex = 1;
+            tableLayoutPanel1.Paint += tableLayoutPanel1_Paint;
             // 
             // dataGridView1
             // 
@@ -304,10 +310,11 @@
             tableLayoutPanel2.Dock = DockStyle.Fill;
             tableLayoutPanel2.Location = new Point(522, 60);
             tableLayoutPanel2.Name = "tableLayoutPanel2";
-            tableLayoutPanel2.RowCount = 3;
+            tableLayoutPanel2.RowCount = 4;
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 30F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 30F));
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 214F));
+            tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel2.Size = new Size(493, 304);
             tableLayoutPanel2.TabIndex = 3;
             // 
@@ -315,11 +322,11 @@
             // 
             label6.Anchor = AnchorStyles.None;
             label6.AutoSize = true;
-            label6.Font = new Font("Libre Franklin", 47.9999924F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.Font = new Font("Microsoft Sans Serif", 47.9999924F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label6.ForeColor = Color.MidnightBlue;
-            label6.Location = new Point(278, 136);
+            label6.Location = new Point(287, 130);
             label6.Name = "label6";
-            label6.Size = new Size(182, 91);
+            label6.Size = new Size(164, 73);
             label6.TabIndex = 5;
             label6.Text = "75%";
             // 
@@ -373,11 +380,11 @@
             // 
             label5.Anchor = AnchorStyles.None;
             label5.AutoSize = true;
-            label5.Font = new Font("Libre Franklin", 47.9999924F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Font = new Font("Microsoft Sans Serif", 47.9999924F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label5.ForeColor = Color.MidnightBlue;
-            label5.Location = new Point(33, 136);
+            label5.Location = new Point(41, 130);
             label5.Name = "label5";
-            label5.Size = new Size(180, 91);
+            label5.Size = new Size(164, 73);
             label5.TabIndex = 4;
             label5.Text = "27%";
             // 
@@ -390,6 +397,26 @@
             lblTarefasDia.Size = new Size(64, 28);
             lblTarefasDia.TabIndex = 0;
             lblTarefasDia.Text = "Hoje";
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Century Gothic", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label7.Location = new Point(23, 367);
+            label7.Name = "label7";
+            label7.Size = new Size(194, 28);
+            label7.TabIndex = 6;
+            label7.Text = "Total de Tarefas";
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Century Gothic", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label8.Location = new Point(522, 367);
+            label8.Name = "label8";
+            label8.Size = new Size(431, 28);
+            label8.TabIndex = 7;
+            label8.Text = "Concluídas / Pendentes / Em Atraso";
             // 
             // TelaPrincipal
             // 
@@ -440,5 +467,7 @@
         private Label label6;
         private Button btnSair;
         private Button btnUsuario;
+        private Label label8;
+        private Label label7;
     }
 }

@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|e:\\documentos\\projetos\\tasklist\\projeto\\tasklist\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\grupos\\adicionargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\grupos\\adicionargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\grupos\\editargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\grupos\\editargrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\grupos\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\grupos\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\tarefas\\adicionartarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\tarefas\\adicionartarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\tarefas\\editartarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\tarefas\\editartarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\tarefas\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\tarefas\\tarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\usu\u00E1rio\\editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\usu\u00E1rio\\editarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\usu\u00E1rio\\gerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\usu\u00E1rio\\gerenciarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\view\\usu\u00E1rio\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:view\\usu\u00E1rio\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|c:\\users\\carlos\\documents\\tasklist\\projeto\\tasklist\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F22AC6-5827-4300-AC47-5F9DEEB9D213}|TaskList.csproj|solutionrelative:telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarGrupo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\AdicionarGrupo.cs",
+              "RelativeDocumentMoniker": "View\\Grupos\\AdicionarGrupo.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\AdicionarGrupo.cs [Projeto]",
+              "RelativeToolTip": "View\\Grupos\\AdicionarGrupo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:44:32.814Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarGrupo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\EditarGrupo.cs",
+              "RelativeDocumentMoniker": "View\\Grupos\\EditarGrupo.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\EditarGrupo.cs [Projeto]",
+              "RelativeToolTip": "View\\Grupos\\EditarGrupo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:44:27.316Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grupo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\Grupo.cs",
+              "RelativeDocumentMoniker": "View\\Grupos\\Grupo.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Grupos\\Grupo.cs [Projeto]",
+              "RelativeToolTip": "View\\Grupos\\Grupo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:44:19.263Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdicionarTarefa.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\AdicionarTarefa.cs",
+              "RelativeDocumentMoniker": "View\\Tarefas\\AdicionarTarefa.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\AdicionarTarefa.cs [Projeto]",
+              "RelativeToolTip": "View\\Tarefas\\AdicionarTarefa.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:44:12.314Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarTarefa.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\EditarTarefa.cs",
+              "RelativeDocumentMoniker": "View\\Tarefas\\EditarTarefa.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\EditarTarefa.cs [Projeto]",
+              "RelativeToolTip": "View\\Tarefas\\EditarTarefa.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:44:03.791Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarefas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\Tarefas.cs",
+              "RelativeDocumentMoniker": "View\\Tarefas\\Tarefas.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Tarefas\\Tarefas.cs [Projeto]",
+              "RelativeToolTip": "View\\Tarefas\\Tarefas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:43:56.238Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\EditarUsuario.cs",
+              "RelativeDocumentMoniker": "View\\Usu\u00E1rio\\EditarUsuario.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\EditarUsuario.cs [Projeto]",
+              "RelativeToolTip": "View\\Usu\u00E1rio\\EditarUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:43:31.199Z",
+              "EditorCaption": " [Projeto]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TelaPrincipal.cs [Projeto]",
-              "DocumentMoniker": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs",
               "RelativeDocumentMoniker": "TelaPrincipal.cs",
-              "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs [Projeto]",
               "RelativeToolTip": "TelaPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T04:20:39.555Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GerenciarUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\GerenciarUsuario.cs",
+              "RelativeDocumentMoniker": "View\\Usu\u00E1rio\\GerenciarUsuario.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\GerenciarUsuario.cs [Projeto]",
+              "RelativeToolTip": "View\\Usu\u00E1rio\\GerenciarUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:43:35.939Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\CadastroUsuario.cs",
+              "RelativeDocumentMoniker": "View\\Usu\u00E1rio\\CadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\CadastroUsuario.cs [Projeto]",
+              "RelativeToolTip": "View\\Usu\u00E1rio\\CadastroUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:43:30.246Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs",
+              "RelativeDocumentMoniker": "TelaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs",
+              "RelativeToolTip": "TelaPrincipal.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:42:06.798Z",
+              "EditorCaption": ""
             }
           ]
         }
