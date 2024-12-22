@@ -89,14 +89,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TelaPrincipal.cs [Projeto]",
+              "Title": "TelaPrincipal.cs [Design]",
               "DocumentMoniker": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs",
               "RelativeDocumentMoniker": "TelaPrincipal.cs",
-              "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs [Projeto]",
-              "RelativeToolTip": "TelaPrincipal.cs [Projeto]",
+              "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\TelaPrincipal.cs [Design]",
+              "RelativeToolTip": "TelaPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T04:20:39.555Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -107,8 +107,7 @@
               "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\View\\Grupos\\AdicionarGrupo.cs [Projeto]",
               "RelativeToolTip": "View\\Grupos\\AdicionarGrupo.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:44:32.814Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-12-13T13:44:32.814Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\View\\Grupos\\EditarGrupo.cs [Projeto]",
               "RelativeToolTip": "View\\Grupos\\EditarGrupo.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:44:27.316Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-12-13T13:44:27.316Z"
             },
             {
               "$type": "Document",
@@ -131,8 +129,7 @@
               "ToolTip": "E:\\Documentos\\Projetos\\TaskList\\Projeto\\TaskList\\View\\Usu\u00E1rio\\GerenciarUsuario.cs [Projeto]",
               "RelativeToolTip": "View\\Usu\u00E1rio\\GerenciarUsuario.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:43:35.939Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-12-13T13:43:35.939Z"
             },
             {
               "$type": "Document",
